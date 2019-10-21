@@ -1,0 +1,16 @@
+The website serves as a portal for managing the users's transport facilities. 
+The user can be of 3 types:-
+1.) Passenger
+2.) Owner/Driver
+3.) Organization with multiple vehicles.
+
+The product does this by letting the Driver/Owner create a (to be replaced) or say a group in which their passengers can be added to.
+The driver being able to connect their device during the trip period allows the passengers to view the location of the vehicle.
+The user can also communicate with the driver. This can help the driver to take a better route if the user had to take leave,etc.
+Such a service can be really useful for various institutes or schools for reliability with the parents.   // can change.
+
+Entering the website, the user is prompted to login if not already. This is optional. After which the user enters the home page.
+Here the user will be able to see a basic timetable and information about the website. The top will have the navigation bar from which
+the user can move to the groups,etc. Top right will contain the profile icon and the name of the user if logged in, and an option
+to sign in if not. The icon can be clicked to go to a page that allows the user to edit his/her profile details.
+The navigation bar contains 
