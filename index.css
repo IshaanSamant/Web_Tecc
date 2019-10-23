@@ -1,0 +1,106 @@
+#home{
+    position: absolute;
+    left: 10px;
+    top: 10%;
+    width: 50px;
+    height: 50px;
+}
+.normal{
+    font-size: 40px;
+
+}
+
+#profile{
+    background: url("profile_icon.png");
+    background-color: transparent;
+    position :absolute;
+    right : 40px;
+    top: 20px;
+    border-radius: 20px;
+}
+#notification{
+    background: url("notification_icon.png");
+    background-color: transparent;
+    position:absolute;
+    right: 80px;
+    top: 10px;
+    height: 50px;
+    width:50px;
+}
+
+.nav{
+    background-color: lightblue;;
+    position: sticky;
+    top: 0px;
+    align-content: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    z-index: 1;
+    width: 100%;
+
+}
+.nav ul{
+    position: relative;
+    left: 35%;
+    list-style-type: none;
+    margin: 10;
+    padding: 10px;
+    overflow: hidden;
+    height: 20%;
+}
+ul.options li {
+    float: left;
+    text-align: center;
+    padding: 0px;
+    margin: 0;
+    font-size: 30px;
+
+}
+.nav ul a{
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+ul.options li:hover{
+    background-color: green;
+}
+
+.info{
+    border: 3px solid darkgray;
+    position: relative;
+    top: 200px;
+    padding: 20px;
+    margin: 10px;
+    font-size: 25px;
+
+}
+
+#image{
+    position: relative;
+    left: 40%;
+    width: 250px;
+}
+.about_us{
+    position: relative;
+    border: 3px solid grey;
+    top:300px;
+    padding:20px;
+    margin: 10px;
+
+}
+#contact_us{
+    position: relative;
+    border: 3px solid grey;
+    top:400px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.box{
+    padding: 20px;
+    margin: 20px;
+    width: 100px;
+    height: 100px;
+}
